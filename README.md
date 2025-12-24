@@ -1,1 +1,1 @@
-sample readme
+This is a lab practice on version control tools such as git and github.
